@@ -1,5 +1,2 @@
 .idea
-/code/bin/
-/code/.env.local
-/code/var/
-/code/vendor/
+vendor/
